@@ -1,0 +1,44 @@
+
+.container {
+    max-width: 350px;
+    margin-top: 50px;
+}
+
+.card {
+    padding: 20px;
+}
+
+img{
+    max-width: 200px;
+    align-items: center;
+    margin: 10px 50px;
+}
+
+.text-center{
+    color: grey;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: inherit;
+    text-align: center;
+}
+
+.form-control{
+    background-color: rgb(215, 212, 212);
+}
+
+.text-muted{
+    text-align: center;
+}
+
+.text-muted a{
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.text-center p a{
+    text-decoration: none;
+}
+
+.btn-link{
+    text-decoration: none;
+}
